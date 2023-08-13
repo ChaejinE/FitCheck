@@ -1,2 +1,2 @@
 # FitCheck
-PT Management App
+PT(Fitness Personal Training) Management App
